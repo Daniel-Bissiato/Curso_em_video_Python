@@ -1,6 +1,6 @@
-# 🐍 Python - Curso em Vídeo
-
 <div align="center">
+
+# 🐍 Python - Curso em Vídeo
   
 Repositório dedicado às minhas soluções dos desafios e exercícios do curso de Python do Curso em Vídeo, ministrado por Gustavo Guanabara.
 
@@ -11,6 +11,9 @@ O objetivo deste repositório é registrar minha evolução na linguagem Python,
 ## 📚 Conteúdo Estudado
 
 ### 🌎 Mundo 1 — Fundamentos
+
+</div>
+
 - Variáveis
 - Entrada e saída de dados
 - Operadores aritméticos
@@ -19,8 +22,6 @@ O objetivo deste repositório é registrar minha evolução na linguagem Python,
 - Condições simples
 
 ---
-
-</div>
 
 ## 📂 Organização
 
